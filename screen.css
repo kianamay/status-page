@@ -1,0 +1,38 @@
+body{
+    background-color: #7989DB;
+    color: #4c4c4c;
+    font-family: "MuseoModerno", sans-serif;
+    font-weight: 600;
+    padding: 20px 50px;
+}
+
+h1{
+    font-size: 3em;
+    color: #171f47;
+}
+h2{
+    font-size: 2em;
+    color: #323961;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+.names{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    width: 40%;
+    height: auto;
+    margin: 30px;
+}
+
+p{
+    font-size: 1.5em;
+    margin: 10px;
+}
